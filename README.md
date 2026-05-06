@@ -2,7 +2,6 @@
 
 A Rust + Soroban smart contract for a Stellar-based tipping application. Supporters can tip creators with any Stellar token, funds are held in contract escrow, and creators withdraw at any time. Every tip and withdrawal is recorded on-chain via events.
 
-> ⚠️ **Work in Progress — ~30% complete.** Only contract initialisation is implemented. See the [progress tracker](#progress-tracker) below.
 
 ---
 
